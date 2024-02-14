@@ -1,0 +1,5 @@
+Postgres:
+> internal_database_url: postgres://medusa_db_cnpp_user:w5ZVkAb5NljpUWAlP6IpUhERWXM7ZO2a@dpg-cn6j1licn0vc73ddnobg-a/medusa_db_cnpp
+
+redis:
+> internal_database_url: redis://red-cn6j432cn0vc73ddo6k0:6379
