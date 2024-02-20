@@ -23,7 +23,7 @@
     "start": "cross-env npm run build && medusa start",
     "start:custom": "cross-env npm run build && node --preserve-symlinks --trace-warnings index.js",
     "dev": "cross-env npm run build:server && medusa develop",
-    "dev:admin": "medusa-admin develop --backend {servehttps://medusa-server-rva1.onrender.comr_url}"
+    "dev:admin": "medusa-admin develop --backend {https://medusa-server-rva1.onrender.comr_url}"
   },
   "dependencies": {
     "@medusajs/admin": "7.1.11",
